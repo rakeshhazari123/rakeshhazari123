@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakeshhazari123
-- 👀 I’m interested in ...web design ing,coding.
+- 👀 I’m interested in ...web Developement,coding.
 - 🌱 I’m currently learning ...2nd Year CSE student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
